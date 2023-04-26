@@ -1,0 +1,30 @@
+[
+    {
+    "Id": 1,
+    "name": "Baghajatin",
+    "city": "Kolkata",
+    "state": "WB",
+    "Distance": "10"
+    },
+    {
+    "Id": 2,
+    "name": "Garia",
+    "city": "Kolkata",
+    "state": "WB", 
+    "Distance": "20"
+    },
+    {
+    "Id": 3,
+    "name": "Sealdaha",
+    "city": "Kolkata",
+    "state": "WB", 
+    "Distance": "15"
+    },
+    {
+    "Id": 4,
+    "name": "Jadavpur",
+    "city": "Kolkata",
+    "state": "WB",
+    "Distance": "25"
+    }
+]

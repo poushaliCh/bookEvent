@@ -1,0 +1,22 @@
+[
+    {
+    "Id": 1,
+    "name": " Hi Stricker",
+    "amount":1000
+    },
+    {
+    "Id": 2,
+    "name": "Puch Challange",
+    "amount":700
+    },
+    {
+    "Id": 3,
+    "name": " Bow & Arrow",
+    "amount":600
+    },
+    {
+    "Id": 4,
+    "name": "Catch Fish",
+    "amount":500
+    }
+]
